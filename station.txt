@@ -1,0 +1,2623 @@
+Station ID	Station name	City
+8767	"Ho Chi Minh City/ US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
+8767	"Ho Chi Minh City US Consulate, Vietnam (Lãnh s? quán Hoa K?, H? Chí Minh)"	H? Chí Minh 
+8688	"United Nations International School of Hanoi, Vietnam (Tr??ng Qu?c t? Liên H?p Qu?c Hà N?i)"	Hà N?i
+8641	"Hanoi US Embassy, Vietnam (??i s? quán M?, Hà N?i)"	Hà N?i
+13012	"Gia Lai/ph??ng Th?ng Nh?t - Pleiku, Vietnam"	Gia Lai
+12488	"Th?a Thiên Hu?/83 Hùng V??ng, Vietnam"	Th?a Thiên Hu?
+13251	"Hà N?i/UBND P. Minh Khai, B?c T? Liêm, Vietnam"	Hà N?i
+12976	"B?c Ninh/Châu Khê, Vietnam"	B?c Ninh
+13250	"Lào Cai/KCN TALOONG1, Vietnam"	Lào Cai
+5507	"Ha Long, Vietnam (Tp H? Long)"	H? Long
+11778	"Qu?ng Ninh/UBND TP Uông Bí, Vietnam"	Qu?ng Ninh
+12958	"B?c Ninh/Phong C?c, Vietnam"	B?c Ninh
+12957	"B?c Ninh/Khu liên c? Thu?n Thành, Vietnam"	B?c Ninh
+13015	"Hà N?i/Tr? s? Công an P .Hàng Mã, Vietnam"	Hà N?i
+13018	"Hà N?i/UBND P .Hoàng V?n Th? - Hoàng Mai, Vietnam"	Hà N?i
+13019	"Hà N?i/UBND P. M? ?ình I, Vietnam"	Hà N?i
+13026	"Hà N?i/Chi c?c BVMT, Vietnam"	Hà N?i
+1584	?à N?ng	?à N?ng
+1585	"Nha Trang, Vietnam"	Nha Trang
+13017	"Hà N?i/Tòa nhà qu?n lý H? Thành Công, Vietnam"	Hà N?i
+13020	"Hà N?i/UBND P.Tây M?, Nam T? Liêm, Vietnam"	Hà N?i
+13013	"Hà N?i/36A Ph?m V?n ??ng, Vietnam"	Hà N?i
+13014	"Hà N?i/M?m non Kim Liên, Vietnam"	Hà N?i
+13252	"Cao B?ng/Tr?m khí TTQT, Vietnam"	Cao B?ng
